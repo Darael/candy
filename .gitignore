@@ -6,3 +6,4 @@ example/.htaccess
 .ndproj/Data
 .ndproj/Menu.txt
 node_modules
+/candyshop
